@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="titulo">Gestión de cámara</string>
+    <string name="menu1">Lector Barras/QR</string>
+    <string name="menu2">Tomar foto</string>
+    <!-- Actiivy Lector-->
+    <string name="titulo1">Lector de Barra y QR</string>
+    <string name="escanear">Escanear</string>
+    <string name="res">Código leido</string>
+    <string name="descripcion">Captura descripción</string>
+    <string name="capturar">Capturar</string>
+    <string name="limpiar">Limpiar</string>
+    <!-- Activity Foto-->
+    <string name="titulo2">Tomar fotografia</string>
+    <string name="foto">Tomar fotografia</string>
+    <string name="todo">TODO</string>
+</resources>
